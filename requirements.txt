@@ -1,0 +1,11 @@
+ipykernel
+pandas 
+numpy 
+matplotlib
+streamlit
+joblib
+plotly
+imageio
+requests 
+scipy
+io
